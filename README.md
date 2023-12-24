@@ -23,6 +23,8 @@ $ npm init -y
   },
 ```
 
+使用 `$ npm run dev`，將執行 `dev` 對應的指令。
+
 ### 3. 安裝 Express
 
 npm install: 安裝所需套件
